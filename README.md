@@ -1,4 +1,4 @@
-# BJS_InternshipMaterial
+# Internship Progress at BJS Biotechnologies Ltd
 
 ## Opening statement
 This repository consist of the materials I was working on during my internship at BJS Biotechnologies Ltd. The internship lasted from 17th June 2019 to 26th July 2019 in London. You can learn more about the company from their website:
